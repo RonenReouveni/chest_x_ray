@@ -4,7 +4,6 @@ In this project, I use TensorFlow to implement various CNN's and leverage transf
 ## Overview 
 
 Name: Ronen Reouveni <br/>
-SUID: 631270747 <br/>
 Number: (858)-245-2128 <br/>
 Email: rreouven@syr.edu <br/>
 Program: Masters in Applied Data Science <br/>
